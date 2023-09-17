@@ -21,7 +21,8 @@
 
 * 연합개발동아리 잇타(IT's TIME)1기 기획파트 참여
 
-* 한국대학생IT경영학회 큐시즘 (KUSITMS) 28기 기획파트  
+* 한국대학생IT경영학회 큐시즘 (KUSITMS) 28기 기획파트
+- https://github.com/DONGA-ST-A 
 
 * 세아해암학술장학재단 30기 이공계열 장학생
 
@@ -30,6 +31,10 @@
 
 * UX Research Process & Double Diamond Process
 
+### [Work Experiences]
+* 한국리서치 이노베이션사업본부 사용자경험 연구원 Hankuk Research Innovation Div. UX Researcher Intern (2023.07-ing)
+
+
 <br />
 
 Contact me anytime
@@ -37,6 +42,7 @@ Contact me anytime
 (EMAIL)[heewonseo0923@gmail.com]
 
 (SNS)[https://www.instagram.com/archivingnotes_]
+
 
 
 <div align=center>
