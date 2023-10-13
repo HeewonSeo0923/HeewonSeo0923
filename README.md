@@ -7,6 +7,8 @@
 
 ### [Work Experiences]
 * 한국리서치 이노베이션사업본부 사용자경험 연구원 Hankuk Research Innovation Div. UX Researcher Intern (2023.07-2023.10)
+
+* 국립현대무용단 2023년도 레퍼토리 공연 <20▲△> VR 기계 스태프 (2023.01-2023.03)
   
 * 교내 HCI 연구실 학부연구생 근무 (2023.01-2023.02)
   
