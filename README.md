@@ -37,8 +37,8 @@
 * 연합개발동아리 잇타(IT's TIME)1기 기획파트 참여
 
 * 한국대학생IT경영학회 큐시즘 (KUSITMS) 28기 기획파트
-- https://github.com/DONGA-ST-A
-- https://github.com/PawWithU
+    - https://github.com/DONGA-ST-A
+    - https://github.com/PawWithU
 
 ### [What i am learning now]
 * Data Visualization with Python & Data Mining with R
